@@ -1,6 +1,6 @@
 # 42-minishell
 
-The objective of this project is for you to create the simplest start of a shellscript. As always, using our own library ([libft](https://github.com/abguimba/42-libft)).
+The objective of this project was for us to create the simplest start of a shellscript. As always, using our own library ([libft](https://github.com/abguimba/42-libft)).
 
 
 ![ ](images/image01.png)
